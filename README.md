@@ -9,10 +9,9 @@
 ---
 
 ## 🚀 About Me
-- 💻 Full-stack developer (PHP | Laravel | JavaScript | Tailwind | MySQL |PgSQL)  
+- 💻 Full-stack developer (PHP | Laravel | JavaScript | Tailwind | MySQL | PgSQL)  
 - 🌱 Currently learning **AI & Cloud technologies**  
 - 🎯 Goal: Build scalable apps and contribute to open-source projects  
-- ⚡ Fun fact: I code faster when I have chai ☕  
 
 ---
 
@@ -30,9 +29,7 @@
 ---
 
 ## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=wares-10&show_icons=true&theme=tokyonight)  
 ![](https://github-readme-streak-stats.herokuapp.com/?user=wares-10&theme=tokyonight)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=wares-10&layout=compact&theme=tokyonight)
 
 ---
 
