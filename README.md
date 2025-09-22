@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Wares Ghani Zada  
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+💻;PHP+%7C+Laravel+%7C+JavaScript+⚡;Open-Source+Contributor+🌍;Always+Learning+🚀)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+💻;PHP+%7C+Laravel+%7C+JavaScript+⚡;Always+Learning+🚀)](https://git.io/typing-svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=wares-10&label=Profile%20Views&color=blueviolet&style=flat)  
 ![GitHub Followers](https://img.shields.io/github/followers/wares-10?style=social)  
