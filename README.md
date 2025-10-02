@@ -30,7 +30,7 @@
 ---
 
 ## 📊 GitHub Stats
-##![](https://github-readme-streak-stats.herokuapp.com/?user=wares-10&theme=tokyonight)  
+![](https://github-readme-streak-stats.herokuapp.com/?user=wares-10&theme=tokyonight)  
 
 ---
 
