@@ -48,8 +48,6 @@ Software Engineer specializing in Laravel and PHP development. I build scalable 
 - Configure and maintain production environments
 - Monitor system performance
 
-*Side note: If I have to do something more than twice, I'll probably write a script for it.* 😊
-
 ---
 
 ## Contact
